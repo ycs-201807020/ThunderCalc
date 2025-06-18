@@ -13,6 +13,6 @@ int mul(int x, int y)
 		// ==> x + x + x + x + x + x ==> y회만큼
 		sum = add(sum, x);
 	}
-//	printf("sum : %d\n", sum);
+
 	return sum;
 }

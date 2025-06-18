@@ -1,4 +1,4 @@
-// mul.h 파일
+// mul.h 파일.
 #pragma once
 
 // 곱셈용 헤더
